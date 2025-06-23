@@ -1,2 +1,3 @@
 # HR_Analytics_Dashboard
-Power BI Dashboard
+HR Analytics Dashboard using Power BI
+
