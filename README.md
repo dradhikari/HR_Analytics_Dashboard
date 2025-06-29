@@ -19,7 +19,7 @@ This project presents an interactive **HR Analytics Dashboard** built in **Power
 ##  Tools & Technologies
 
 - **Power BI Desktop**
-- **CSV  as data source**
+- **CSV as data source**
 
 ---
 
